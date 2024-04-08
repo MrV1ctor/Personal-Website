@@ -1,4 +1,4 @@
-let pageCount = 3;
+let pageCount = 2;
 let currentPage = 0;
 let pages;
 
